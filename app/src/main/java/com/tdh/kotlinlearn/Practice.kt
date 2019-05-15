@@ -5,7 +5,7 @@ package com.tdh.kotlinlearn
  * E-mail:tdh@erongdu.com
  * Date: 2019/5/14 14:54
  * <p/>
- * Descripiton:测试上传到github
+ * Descripiton:测试
  */
 const val SCHEME = "http"
 
